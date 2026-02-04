@@ -1,12 +1,12 @@
 # INF1008 Assignment (Part 1)
 
 ## Team
-- Chern Ze Hou (2303710) — Q2b
-- Guo You Yan (2502970) — Q2a
-- Ang Ben Rong (2503508) — Q3b
 - Adil Hadi (2500499) — Q1
 - Ng Jun Yang (2500406) — Q1
+- Guo You Yan (2502970) — Q2a
+- Chern Ze Hou (2303710) — Q2b
 - Mohamad Danish Bin Mohammad (2501370) — Q3a
+- Ang Ben Rong (2503508) — Q3b
 
 ## Folder Structure
 - `Q1_2500499_2500406/` — Singly linked list ADT with index map
